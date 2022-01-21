@@ -1,0 +1,30 @@
+
+.section{
+    padding: 20px;
+}
+
+.img img{
+    width: 300px;
+    height: 200px;
+}
+.shop li{
+    list-style-type: none;
+}
+.buy{
+    text-decoration: line-through;
+}
+
+td{
+    text-align:center;
+}
+table{
+    width: 550px;
+    border-collapse: collapse; 
+    line-height: 1.1;
+    background:  radial-gradient(farthest-corner at 50% 50%, white, #DCECF8);
+    color: #000;
+}
+th, td {
+    border: 1px solid #A9E2CC;
+    padding: 20px 0px;
+  }
